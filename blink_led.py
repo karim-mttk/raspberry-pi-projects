@@ -8,4 +8,4 @@ GPIO.setup(LED, GPIO.OUT)
 while True:
     ledState = not ledState
     GPIO.output(LED, ledState)
-    time.sleep(0.1rasp )
+    time.sleep(0.1)
