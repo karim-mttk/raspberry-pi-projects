@@ -1,0 +1,2 @@
+as -o mvn.o mvn.s
+ld -o mvn mvn.o
