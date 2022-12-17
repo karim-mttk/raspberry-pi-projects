@@ -1,0 +1,2 @@
+as -o carry.o carry.s
+ld -o carry carry.o
